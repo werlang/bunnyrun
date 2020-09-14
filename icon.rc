@@ -1,0 +1,3 @@
+ //windres -O coff -o icon.res -i icon.rc
+ 
+ ALLEGRO_ICON ICON img/icon.ico
